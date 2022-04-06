@@ -23,7 +23,7 @@ const CharacterItem = ({ item }) => {
               <strong>Released date:</strong> {item.release_date}
             </li>
             <li>
-              <strong className='descWrapper'>Description:</strong> {item.description}
+              <strong>Description:</strong> {item.description}
             </li>
           </ul>
         </div> }
